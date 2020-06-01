@@ -1,0 +1,36 @@
+[
+   {
+      "latitude":"36.369542",
+      "longitude":"3.872896",
+      "categoryId":1,
+      "name":"hb 314-7",
+      "name":"name1",
+      "id":0
+   },
+   {
+      "latitude":"36.369602",
+      "longitude":"3.875063",
+      "categoryId":2,
+      "name":"hb2 22-193",
+      "name":"name2",
+      "id":1
+   },
+{
+      "latitude":"36.369602",
+      "longitude":"3.875063",
+      "categoryId":2,
+      "name":"hb2 22-193",
+      "name":"name2",
+      "id":2
+   },
+
+{
+      "latitude":"36.369602",
+      "longitude":"3.875063",
+      "categoryId":3,
+      "name":"hb2 22-193",
+      "name":"name2",
+      "id":3
+   }
+
+]
