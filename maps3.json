@@ -1,23 +1,23 @@
 [
    {
-      "latitude":"36.369542",
-      "longitude":"3.872896",
+      "latitude":"36.370500",
+      "longitude":"3.877167",
       "categoryId":1,
       "name":"hb 314-7",
       "name":"name1",
       "id":0
    },
    {
-      "latitude":"36.369602",
-      "longitude":"3.875063",
-      "categoryId":2,
+      "latitude":"36.370303",
+      "longitude":"3.876805",
+      "categoryId":1,
       "name":"hb2 22-193",
-      "name":"name2",
+      "name":"name11",
       "id":1
    },
 {
-      "latitude":"36.369602",
-      "longitude":"3.875063",
+      "latitude":"36.370744",
+      "longitude":"3.876896",
       "categoryId":2,
       "name":"hb2 22-193",
       "name":"name2",
@@ -25,11 +25,11 @@
    },
 
 {
-      "latitude":"36.369602",
-      "longitude":"3.875063",
-      "categoryId":3,
+      "latitude":"36.370677",
+      "longitude":"3.876333",
+      "categoryId":2,
       "name":"hb2 22-193",
-      "name":"name2",
+      "name":"name22",
       "id":3
    }
 
