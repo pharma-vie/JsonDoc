@@ -40,6 +40,14 @@
       "name":"hb2 22-193",
       "name":"name22",
       "id":4
+   },
+    {
+      "latitude":"36.370744",
+      "longitude":"3.876896",
+      "categoryId":3,
+      "name":"hb2 22-193",
+      "name":"name2",
+      "id":5
    }
 
 ]
