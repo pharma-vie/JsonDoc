@@ -14,7 +14,7 @@
       "categoryId":1,
       "name":"hb 314-7",
       "name":"name1",
-      "id":0
+      "id":1
    },
    {
       "latitude":"36.370303",
@@ -39,7 +39,7 @@
       "categoryId":2,
       "name":"hb2 22-193",
       "name":"name22",
-      "id":3
+      "id":2
    }
 
 ]
