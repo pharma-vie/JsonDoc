@@ -1,11 +1,19 @@
 [
+     {
+      "latitude":"",
+      "longitude":"",
+      "categoryId":00,
+      "name":"hb 314-7",
+      "name":"name1",
+      "id":6
+   },
     {
       "latitude":"36.370500",
       "longitude":"3.877167",
       "categoryId":0,
       "name":"hb 314-7",
       "name":"name1",
-      "id":0
+      "id":5
    },
    {
       "latitude":"36.370500",
@@ -13,7 +21,7 @@
       "categoryId":1,
       "name":"hb 314-7",
       "name":"name1",
-      "id":0
+      "id":4
    },
    {
       "latitude":"36.370303",
