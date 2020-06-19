@@ -1,0 +1,26 @@
+[
+  {
+    "lat":51.5097080,
+    "lng":-0.1200450,
+    "title":"Savoy Place",
+    "id":1
+  },
+  {
+    "lat":51.5090680,
+    "lng":-0.1421420,
+    "title":"Albemarle St",
+    "id":1
+  },
+  {
+    "lat":51.4976080,
+    "lng":-0.1456320,
+    "title":" Victoria Square",
+    "id":2
+  },
+  {
+    "lat":51.5046150,
+    "lng":-0.1473780,
+    "title":"Pall Mall",
+    "id":2
+  }
+]
