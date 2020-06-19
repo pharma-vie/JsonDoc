@@ -6,7 +6,7 @@
 { "lat" : 51.5046150, "lng" : -0.1473780, "title" : "Pall Mall", "id": 1},
 { "lat" : 51.5077540, "lng" : -0.1378760, "title" : "Jermyn Street", "id": 2 },
 { "lat" : 51.5074250, "lng" : -0.1323230 , "title" : "Pall Mall", "id": 2},
-{ "lat" : 51.5070030, "lng" : -0.125560, "title" : "Pall Mall", "id": 2},
+{ "lat" : 51.5070030, "lng" : -0.125560, "title" : "Pall Mall", "id": 1},
 { "lat" : 51.5061590, "lng" : -0.140280, "title" : "Pall Mall", "id": 2},
 { "lat" : 51.5047420, "lng" : -0.1470490, "title" : "Pall Mall", "id": 2}
 ]
