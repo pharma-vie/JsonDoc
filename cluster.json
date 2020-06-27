@@ -3,7 +3,7 @@
   { "lat" : 51.5097080, "lng" : -0.1200450,  "title" : "Savoy Place", "categoryId":2, "id": 1},
   { "lat" : 51.5090680, "lng" : -0.1421420, "title" : "Albemarle St", "categoryId":2, "id": 2},
   { "lat" : 51.4976080, "lng" : -0.1456320, "title" : " Victoria Square", "categoryId":2, "id": 3},
-  { "lat" : 51.5046150, "lng" : -0.1473780, "title" : "Pall Mall", "categoryId":3, "id": 3},
+  { "lat" : 51.5046150, "lng" : -0.1473780, "title" : "Pall Mall", "categoryId":3, "id": 4},
   { "lat" : 51.5077540, "lng" : -0.1378760, "title" : "Jermyn Street", "categoryId":3, "id": 5 },
   { "lat" : 51.5074250, "lng" : -0.1323230 , "title" : "hello Mall", "categoryId":3, "id": 6},
   { "lat" : 51.5070030, "lng" : -0.125560, "title" : "yes Mall", "categoryId":4, "id": 7},
