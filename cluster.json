@@ -7,6 +7,5 @@
   { "lat" : 51.5077540, "lng" : -0.1378760, "title" : "Jermyn Street", "categoryId":3, "id": 5 },
   { "lat" : 51.5074250, "lng" : -0.1323230 , "title" : "hello Mall", "categoryId":3, "id": 6},
   { "lat" : 51.5070030, "lng" : -0.125560, "title" : "yes Mall", "categoryId":4, "id": 7},
-  { "lat" : 51.5061590, "lng" : -0.140280, "title" : "non Mall", "categoryId":1, "id": 8},
-  { "lat" : 51.5047420, "lng" : -0.1470490, "title" : "allo Mall", "categoryId":3, "id": 9}
+  { "lat" : 51.5061590, "lng" : -0.140280, "title" : "non Mall", "categoryId":1, "id": 8}
 ]
