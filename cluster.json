@@ -3,7 +3,7 @@
   { "lat" : 36.369618, "lng" : 3.875071,  "title" : "Ford Bouira", "categoryId":2, "id": 1},
   { "lat" : 36.371268, "lng" : 3.879008, "title" : "Café & Pizzeria Familiale", "categoryId":3, "id": 2},
   { "lat" : 36.374844, "lng" : 3.885209, "title" : " Sonelgaz", "categoryId":2, "id": 3},
-  { "lat" : 36.375769, "lng" : 3.884260, "title" : "Palais de justice", "categoryId":3, "id": 4},
+  { "lat" : 36.375592, "lng" : 3.884290, "title" : "Palais de justice", "categoryId":3, "id": 4},
   { "lat" : 36.379077, "lng" : 3.899199, "title" : "banque CPA", "categoryId":3, "id": 5 },
   { "lat" : 36.377997, "lng" : 3.899317 , "title" : "Club Ait Menguellet", "categoryId":1, "id": 6},
   { "lat" : 36.368434, "lng" : 3.900175, "title" : "pharmacie yahiaoui", "categoryId":3, "id": 7},
