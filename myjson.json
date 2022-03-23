@@ -1,21 +1,24 @@
 [
-      {
-          "title": "Acuerdos Junta de Escuela 26 de enero 2022",
-          "link": "http://www.tel.uva.es/informacion/equipo.htm#aviso1734",
-          "category": "15",
-          "pubDate": "Wed, 26 Jan 2022 13:37:05 GMT",
-          "guid": "http://www.tel.uva.es/informacion/equipo.htm#aviso1734",
-          "dc:date": "2022-01-26T13:37:05Z"
-        },
-  
         {
-          "title": "Acuerdos Junta de Escuela 15 de noviembre 2021",
-          "link": "http://www.tel.uva.es/informacion/equipo.htm#aviso1715",
-          "category": "15",
-          "pubDate": "Mon, 15 Nov 2021 18:39:06 GMT",
-          "guid": "http://www.tel.uva.es/informacion/equipo.htm#aviso1715",
-          "dc:date": "2021-11-15T18:39:06Z"
-        }
-      ]
+        "id": "24",
+        "name": "Marwa Eltayeb",
+        "email": "marwa_eltayeb@yahoo.com",
+        "password": "$2b$10$TS95svgviRXseNqgQ5Bzr.O5zP8BGx2tNUx8qhObXv6ychDcNdye6",
+        "gender": "undertermined",
+        "age": "0",
+        "image": "storage_user\\1583003208523tinkerbell.jpg",
+        "isAdmin": "1"
+    },
+    {
+        "id": "25",
+        "name": "Nahla",
+        "email": "nahla@gmail.com",
+        "password": "$2b$10$/XW7ccom7cb7L6N55MHtd.ITGNinMIt6kesSpq33EM3mnO.yX4Thu",
+        "gender": "female",
+        "age": "30",
+        "image": "",
+        "isAdmin": "0"
+    }
+]
   
 
