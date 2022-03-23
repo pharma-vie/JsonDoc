@@ -1,25 +1,4 @@
-{
-  "rss": {
-    "-xmlns:content": "http://purl.org/rss/1.0/modules/content/",
-    "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
-    "-xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-    "-xmlns:taxo": "http://purl.org/rss/1.0/modules/taxonomy/",
-    "-version": "2.0",
-    "channel": {
-      "title": "Tabl n ETSIT Valladolid",
-      "link": "http://www.tel.uva.es/tablon/avisos.htm",
-      "description": "Avisos del Tabl n de la ETSIT",
-      "language": "es",
-      "pubDate": "Mon, 21 Mar 2022 09:23:41 GMT",
-      "dc:date": "2022-03-21T09:23:41Z",
-      "dc:language": "es",
-      "image": {
-        "title": "ETSIT Valladolid",
-        "url": "http://www.tel.uva.es/images/logo_etsit.gif",
-        "link": "http://www.tel.uva.es",
-        "description": "ETSIT Valladolid"
-      },
-      "item": [
+[
       {
           "title": "Acuerdos Junta de Escuela 26 de enero 2022",
           "link": "http://www.tel.uva.es/informacion/equipo.htm#aviso1734",
@@ -44,7 +23,5 @@
           "dc:date": "2021-11-15T18:39:06Z"
         }
       ]
-    }
-  },
-  "#encoding": "iso-8859-1"
-}
+  
+
