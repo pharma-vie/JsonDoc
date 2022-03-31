@@ -1,5 +1,6 @@
-[{
-	    "id":"1",
+[
+   {
+      "id":"1",
       "sub":"1",
       "title":"Oferta de empleo en FREQUENTIS (titulados o alumnos que terminen este verano)",
       "link":"http://www.tel.uva.es/tablon/avisos.htm#aviso1757",
@@ -8,25 +9,26 @@
       "pubDate":"Wed, 23 Mar 2022 18:59:14 GMT",
       "guid":"http://www.tel.uva.es/tablon/avisos.htm#aviso1757",
       "dc:date":"2022-03-23T18:59:14Z",
-		"subCategory": [{
-				"id": 594,
-				"name": "Chocolate Cakes",
-				"parent_id": 1
-			},
-			{
-				"id": 595,
-				"name": "Pineapple & Fruit Cakes",
-				"parent_id": 1
-			},
-			{
-				"id": 596,
-				"name": "other cakes",
-				"parent_id": 1
-			}
-		]
-	},
-	{
-	"id":"2",
+      "subCategory":[
+         {
+            "id":594,
+            "name":"Chocolate Cakes",
+            "parent_id":1
+         },
+         {
+            "id":595,
+            "name":"Pineapple & Fruit Cakes",
+            "parent_id":1
+         },
+         {
+            "id":596,
+            "name":"other cakes",
+            "parent_id":1
+         }
+      ]
+   },
+   {
+      "id":"2",
       "sub":"2",
       "title":"GIRs de la ETSIT en revista \"M s Tribuna\" de Salud",
       "link":"http://www.tel.uva.es/investigacion/noticias.htm?controlador(accion)=ver&controlador(tablon)=1217",
@@ -35,26 +37,22 @@
       "pubDate":"Mon, 04 Dec 2017 19:09:48 GMT",
       "guid":"http://www.tel.uva.es/investigacion/noticias.htm?controlador(accion)=ver&controlador(tablon)=1217",
       "dc:date":"2017-12-04T19:09:48Z",
-		"subCategory": [{
-				"id": 817,
-				"name": "MEN",
-				"parent_id": 2
-			},
-			{
-				"id": 818,
-				"name": "WOMEN",
-				"parent_id": 2
-			},
-			{
-				"id": 819,
-				"name": "ACCESSORIES",
-				"parent_id": 2
-			}
-		]
-	},
-	{
-		"id": 859,
-		"name": "Red Pen",
-		"parent_id": 0
-	}
+      "subCategory":[
+         {
+            "id":817,
+            "name":"MEN",
+            "parent_id":2
+         },
+         {
+            "id":818,
+            "name":"WOMEN",
+            "parent_id":2
+         },
+         {
+            "id":819,
+            "name":"ACCESSORIES",
+            "parent_id":2
+         }
+      ]
+   }
 ]
