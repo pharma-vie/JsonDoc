@@ -1,0 +1,26 @@
+[
+   {
+      "id":586,
+      "name":"Cake by Flavour",
+      "parent_id":0,
+      "subCategory":"Chocolate Cakes"
+   },
+   {
+      "id":586,
+      "name":"Cake by Flavour",
+      "parent_id":0,
+      "subCategory":"Chocolate Cakes2"
+   },
+   {
+      "id":816,
+      "name":"Top Categories",
+      "parent_id":0,
+      "subCategory":"MEN"
+   },
+   {
+      "id":816,
+      "name":"Top Categories",
+      "parent_id":0,
+      "subCategory":"MEN3"
+   }
+]
