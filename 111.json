@@ -1,0 +1,48 @@
+[{
+		"id": 586,
+		"name": "Cake by Flavour",
+		"parent_id": 0,
+		"subCategory": [{
+				"id": 594,
+				"name": "Chocolate Cakes",
+				"parent_id": 586
+			},
+			{
+				"id": 595,
+				"name": "Pineapple & Fruit Cakes",
+				"parent_id": 586
+			},
+			{
+				"id": 596,
+				"name": "other cakes",
+				"parent_id": 586
+			}
+		]
+	},
+	{
+		"id": 816,
+		"name": "Top Categories",
+		"parent_id": 0,
+		"subCategory": [{
+				"id": 817,
+				"name": "MEN",
+				"parent_id": 816
+			},
+			{
+				"id": 818,
+				"name": "WOMEN",
+				"parent_id": 816
+			},
+			{
+				"id": 819,
+				"name": "ACCESSORIES",
+				"parent_id": 816
+			}
+		]
+	},
+	{
+		"id": 859,
+		"name": "Red Pen",
+		"parent_id": 0
+	}
+]
